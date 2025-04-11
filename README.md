@@ -1,6 +1,6 @@
 # 📱 Atividade 02 – PDM (Programação de Dispositivos Móveis)
 
-**Aluno:** Thiago Akira Higa Mitami 
+**Aluno:** Thiago Akira Higa Mitami
 **Professor:** Vinicius Heltai  
 **Curso:** Ciência da Computação – 3º Semestre  
 **Disciplina:** Programação de Dispositivos Móveis
