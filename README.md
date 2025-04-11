@@ -1,5 +1,3 @@
-# Aplicativos_1_a_5
-
 # 📱 Atividade 02 – PDM (Programação de Dispositivos Móveis)
 
 **Aluno:** Thiago Akira Higa Mitami 
